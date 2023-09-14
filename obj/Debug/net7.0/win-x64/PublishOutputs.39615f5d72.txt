@@ -1,0 +1,2 @@
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Demo\bin\Debug\net7.0\win-x64\publish\Demo.pdb
+C:\Users\hmoul\OneDrive\Documents\2024\DOT NET\Demo\bin\Debug\net7.0\win-x64\publish\Demo.exe

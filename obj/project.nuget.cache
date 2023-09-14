@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fN8KhGsRaR8lQeCNgjil6k2LyNRwwWuGI5fTD9hoMwlLFKXnVmXW3pSLvY9o0r+GNGlWqVzNZlZXb6m58/YKYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hmoul\\OneDrive\\Documents\\2024\\DOT NET\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hmoul\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\hmoul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\hmoul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\hmoul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
